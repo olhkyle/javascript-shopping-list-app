@@ -39,7 +39,7 @@ function App () {
                     event.target.closest('li').remove();
                 }
             });
-                
+            
     }
     
     inputMenu.addEventListener('keypress', (event) =>{
